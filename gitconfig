@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = j.pastor18@ejm.org
+	name = Jules Pastor
